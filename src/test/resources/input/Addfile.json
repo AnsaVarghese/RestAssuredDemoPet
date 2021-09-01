@@ -1,0 +1,18 @@
+{
+  "id": 2359,
+  "category": {
+    "id": 21,
+    "name": "animal"
+  },
+  "name": "tortoise",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "string"
+    }
+  ],
+  "status": "available"
+}

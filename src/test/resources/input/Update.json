@@ -1,0 +1,18 @@
+{
+  "id": 9223372000666077000,
+  "category": {
+    "id": 0,
+    "name": "string"
+  },
+  "name": "newname15",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "string"
+    }
+  ],
+  "status": "available"
+}
